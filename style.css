@@ -1,0 +1,9 @@
+.my-hidden {
+    transform: translateX(-250%);
+    transition: 700ms;
+    margin-top: 10%;
+}
+
+.mostra {
+    transform: translateX(0);
+}
